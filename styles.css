@@ -1,0 +1,66 @@
+body {
+    background-color: #681919;
+    text-align: center;
+    color: #F1EBEB;
+}
+
+.title {
+    color: #CACACA;
+    font-size: 50px;
+    font-weight: 800;
+    padding: 20px;
+    text-align: center;
+}
+
+.button {
+    display: flex;
+    justify-content: space-around;
+}
+
+.first-Uzui {
+    display: none;
+}
+
+.gyutaro {
+    display: none;
+}
+
+.second-gyu {
+    text-align: center;
+}
+
+.third-Uzui {
+    display: none;
+}
+
+.final-Uzui {
+    display: none;
+}
+
+.first-rengoku {
+ display: none;   
+}
+
+.second-rengoku {
+ display: none;   
+}
+
+.ew {
+ display: none;   
+}
+
+.final-rengoku {
+display: none;    
+}
+
+.fight {
+ text-align: center;   
+}
+
+img {
+    width: 270px;
+}
+
+.reset-button {
+display: none;
+}
